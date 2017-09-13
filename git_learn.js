@@ -8,4 +8,5 @@
 8. git reset --hard HEAD^  // 恢复到某个版本
 9. git checkout -- file // 撤销修改回到和版本库一样，或者撤销到添加到暂存区后的状态
 10. git rm file => git commit// 删除文件
-11.
+11. git remote add origin https://github.com/xuanyanghou/system.git  // 关联一个远程仓库
+12. git push -u origin master // 第一次推送master分支所有内容
