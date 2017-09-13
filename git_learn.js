@@ -12,3 +12,6 @@
 11-1: git remote add origin git@github.com:xuanyanghou/gitkills.git // 使用ssh协议 速度最快
 12. git push -u origin master // 第一次推送master分支所有内容
 13. git clone https://github.com/xuanyanghou/gitkills.git or git@github.com:xuanyanghou/gitkills.git //clone 一个本地仓库
+14. git checkout -b dev // 创建分支 并切换到dev分支
+15. git branch // 查看当前分支
+16. 
