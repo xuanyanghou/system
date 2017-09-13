@@ -48,5 +48,6 @@ Git tracks changes of files
 		clear: both
 		font-size: 32px
 Creating a test for master
+Creating a new branch is quick AND simple
 
 
