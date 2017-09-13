@@ -47,6 +47,6 @@ Git tracks changes of files
 		margin: -50px auto 0 auto
 		clear: both
 		font-size: 32px
-
+Creating a new branch is quick AND simple
 
 
