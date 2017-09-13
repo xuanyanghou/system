@@ -1,5 +1,6 @@
 Git is free software is very good
 Git is a distributed version control system
+Git is tool
 1 babelrc 作用是把es6语法转换为es5的语法
 2 editorconfig 编辑器的设置
 3 eslintignore 忽略语法检查的目录文件
